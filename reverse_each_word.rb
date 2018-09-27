@@ -7,3 +7,4 @@ def reverse_each_word(string)
     puts array_reversed
   end
 end
+end
